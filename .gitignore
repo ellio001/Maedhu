@@ -2,4 +2,8 @@
 *.cache
 *.dll
 *.log
-*.pdb
+*.gdb
+*.umap
+*.bin
+AutoScreenshot/
+*.ini
