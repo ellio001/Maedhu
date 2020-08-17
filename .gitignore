@@ -5,5 +5,6 @@
 *.gdb
 *.umap
 *.bin
-AutoScreenshot/
+*.AutoScreenshot
 *.ini
+
